@@ -2,13 +2,12 @@
 
 Cloud Rapid Experimentation and Analysis Tool (aka CBTOOL) is a framework that automates IaaS cloud benchmarking through the running of controlled experiments.
 
-Subscribe to our mailing list:
+Subscribe to our mailing lists:
 
-Users: https://groups.google.com/forum/#!forum/cbtool-users
+- Users: https://groups.google.com/forum/#!forum/cbtool-users
+- Development: https://groups.google.com/forum/#!forum/cbtool-devel
 
-Development: https://groups.google.com/forum/#!forum/cbtool-devel
-
-## To get started:
+## Getting Started:
 
 1. [Learn more about the tool](https://github.com/ibmcb/cbtool/wiki/DOC:-Table-of-Contents)
 2. [Perform the initial installation](https://github.com/ibmcb/cbtool/wiki/HOWTO:-Initial-Installation)
@@ -17,7 +16,7 @@ Development: https://groups.google.com/forum/#!forum/cbtool-devel
 5. [Prepare a VM image to be used with the tool](https://github.com/ibmcb/cbtool/wiki/HOWTO:-Preparing-a-VM-to-be-used-with-CBTOOL-on-a-real-cloud)
 6. [Run simple experiments](https://github.com/ibmcb/cbtool/wiki/HOWTO:-Run-simple-experiments)
 7. Look at some [auto generated plots](https://github.com/ibmcb/cbtool/wiki/HOWTO:-Save-Monitoring-Data-on-the-Command-Line) made from the data collected.
-8. Read our latest paper (to appear in IC2E 2013).
+8. Read our latest paper: [CloudBench: Experiment Automation for Cloud Environments](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6529297&tag=1) (IC2E 2013)
 9. Try to get connected with the [Graphical Wizard](https://github.com/ibmcb/cbtool/wiki/HOWTO:-Using-the-Wizard-for-first-time-connection)
 10. Try administrating the tool with the [Graphical Environment](https://github.com/ibmcb/cbtool/wiki/HOWTO:-Using-the-Graphical-Environment)
 11. Then try [monitoring your experiments with the Graphical Environment](https://github.com/ibmcb/cbtool/wiki/HOWTO:-Monitoring-with-the-Graphical-Environment)
